@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+.env.local
+.circle
+contracts/out
+contracts/cache
+.env.*
+!.env.example
+backend/node_modules
+backend/data
+*.db
+*.db-wal
+*.db-shm
+traces.jsonl
+console.jsonl
